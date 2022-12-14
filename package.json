@@ -1,0 +1,27 @@
+{
+  "name": "onesignal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-cron": "^3.0.6",
+    "axios": "^1.2.0",
+    "gl-matrix-invert": "^1.0.0",
+    "math-js": "^1.0.1",
+    "mathjs": "^11.5.0",
+    "matrix-inverse": "^2.0.0",
+    "matrix-js": "^1.6.1",
+    "node-cron": "^3.0.2",
+    "node-telegram-bot-api": "^0.60.0",
+    "onesignal-node": "^3.4.0",
+    "ts-matrix": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
